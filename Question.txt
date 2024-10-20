@@ -1,0 +1,9 @@
+Question:
+1. How can we calculate the total number of medals won by each country in the Olympics?
+2. Which athletes have won the most total medals in the Olympics?
+3. How many athletes participated in each Olympic year?
+4. Which 10 sports have awarded the most total medals in Olympic history?
+5. How does the height of Olympic athletes relate to their weight?
+6. What is the age distribution of athletes in the Olympics?
+7. What is the weight distribution of athletes in the Olympics?
+8. What is the height distribution of athletes in the Olympics?
